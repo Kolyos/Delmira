@@ -1,1 +1,1 @@
-# Магазин косметики Delmira
+# Cosmetics store Delmira
